@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+main.py
+run_aitareya.py
+test_story.py
+server.py
